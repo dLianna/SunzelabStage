@@ -1,3 +1,3 @@
 # SunzelabStage
 
-Repository finalized to studying and to improving myself
+Repository finalized to collaborating, to studying and to improving myself
