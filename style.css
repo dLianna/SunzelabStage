@@ -1,0 +1,55 @@
+h1 {
+  font-family: "Copperplate", papyrus;
+  color: #ffcc00;
+  text-align: center
+}
+
+body {
+  background-image: url("cielo_stellato.jpg");
+}
+
+.search {
+  height: 175px;
+  width: 50%;
+  margin: auto;
+  font-family: "verdana";
+  color: #ffcc00;
+  border-radius: 12px;
+  padding: 50px;
+
+  background-color: #00004d;
+  text-align: center;
+}
+
+.response {
+  height: 100px;
+  width: 50%;
+  margin: auto;
+  font-family: "Copperplate", papyrus;
+  color: #ffcc00;
+  border-radius: 12px;
+  padding: 50px;
+
+  background-color: #00004d;
+  text-align: center;
+}
+
+.space {
+  height: 30px;
+ }
+
+label {
+  color: #ffcc00;
+}
+
+input {
+  border-radius: 5px;
+  background-color: #ffd480;
+  color: #00004d;
+}
+
+.button {
+    color: #00004d;
+    background-color: #ffcc00;
+    border-radius: 5px;
+}
